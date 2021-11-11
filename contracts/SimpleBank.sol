@@ -5,7 +5,7 @@
  */
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-
+//changed to 0.8.0
 contract SimpleBank {
 
     /* State variables
